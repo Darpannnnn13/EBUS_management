@@ -1,0 +1,60 @@
+/* General Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5; /* Soft light background */
+    color: #333;
+}
+
+/* Container for content */
+.container {
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+/* Table Header Styling */
+th {
+    background-color: #2980b9;
+    color: white;
+    padding: 10px;
+    font-size: 1.2em;
+}
+
+/* Table Row Styling */
+td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+/* Row Hover Effect */
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Heading Styling */
+h1 {
+    text-align: center;
+    color: #2980b9;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Message for no buses */
+p {
+    text-align: center;
+    font-size: 1.2em;
+    color: #e74c3c;
+}
